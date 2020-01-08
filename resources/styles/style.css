@@ -25,3 +25,10 @@ body{
     font-size: 21px;
     font-weight: normal;
 }
+
+.footer{
+    text-align: right;
+    color: gray;
+    font-size: 21px;
+    font-weight: normal;
+}
